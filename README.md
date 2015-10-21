@@ -18,4 +18,8 @@
 3. Thesis title? (probably)
 
 ### Assignment2: https://classroom.github.com/assignment-invitations/10dd42065e25b801c09465a342c7a1ff
-- Provide another implementation of state-of-the-art SR algorithm (among the 5 recent algorithms (minus A+))
+- Provide another implementation of state-of-the-art SR algorithm (among the 5 recent algorithms (minus A+ since it's the 1st submission))
+
+## General Reading
+
+* Slides from Prof. Raymond R. Tan, Ph.D., "Getting Published: Basic Principles to Get You Started".

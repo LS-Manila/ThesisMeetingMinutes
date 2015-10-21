@@ -28,4 +28,4 @@ Fork repo: https://github.com/DeLaSalleUniversity-Manila/SelfExSR
 
 ## General Reading
 
-* Slides from Prof. Raymond R. Tan, Ph.D., "Getting Published: Basic Principles to Get You Started". (https://github.com/DeLaSalleUniversity-Manila/ThesisMeetingMinutes/blob/master/GettingPublished-BasicPrinciplesToGetYouStarted-DrTan.pdf)
+* Lecture from Prof. Raymond R. Tan, Ph.D., "Getting Published: Basic Principles to Get You Started". (https://github.com/DeLaSalleUniversity-Manila/ThesisMeetingMinutes/blob/master/GettingPublished-BasicPrinciplesToGetYouStarted-DrTan.pdf)

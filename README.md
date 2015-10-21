@@ -7,7 +7,9 @@
 * Assist rchgit git submission: https://github.com/DeLaSalleUniversity-Manila/imagesuper-resolutionviasparserepresentationdemo-rchgit
 * Sazerdragon git submission: (To follow...)
 * State-of-the-art SR paper review: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.pdf
-* Deliverables for next meeting:
+* Current status of own algorithm: average PSNR of around 16dB ( below par ).
+
+### Deliverables for next meeting:
 
 1. Specific SR dataset domain for rchgit and sazerdragon.
 

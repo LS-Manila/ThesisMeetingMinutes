@@ -6,7 +6,9 @@
 
 * Assist rchgit git submission: https://github.com/DeLaSalleUniversity-Manila/imagesuper-resolutionviasparserepresentationdemo-rchgit
 * Sazerdragon git submission: (To follow...)
-* State-of-the-art SR paper review: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.pdf
+* State-of-the-art SR paper review: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.pdf 
+
+Fork repo: https://github.com/DeLaSalleUniversity-Manila/SelfExSR
 * Current status of own algorithm: average PSNR of around 16dB ( below par ).
 
 ### Deliverables for next meeting:
@@ -20,6 +22,10 @@
 ### Assignment2: https://classroom.github.com/assignment-invitations/10dd42065e25b801c09465a342c7a1ff
 - Provide another implementation of state-of-the-art SR algorithm (among the 5 recent algorithms (minus A+ since it's the 1st submission))
 
+## COE Thesis Proposal format:
+
+* Fork from rhgit (https://github.com/DeLaSalleUniversity-Manila/COE5200)
+
 ## General Reading
 
-* Slides from Prof. Raymond R. Tan, Ph.D., "Getting Published: Basic Principles to Get You Started".
+* Slides from Prof. Raymond R. Tan, Ph.D., "Getting Published: Basic Principles to Get You Started". (https://github.com/DeLaSalleUniversity-Manila/ThesisMeetingMinutes/blob/master/GettingPublished-BasicPrinciplesToGetYouStarted-DrTan.pdf)

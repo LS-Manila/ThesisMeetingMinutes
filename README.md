@@ -5,7 +5,7 @@
 ## Agenda (10/21/2015)
 
 * Assist rchgit git submission: https://github.com/DeLaSalleUniversity-Manila/imagesuper-resolutionviasparserepresentationdemo-rchgit
-* Sazerdragon git submission: (To follow...)
+* Sazerdragon git submission: (https://github.com/DeLaSalleUniversity-Manila/MicroexpressionsSparseSuperResolution-Sazerdragon)
 * State-of-the-art SR paper review: http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Huang_Single_Image_Super-Resolution_2015_CVPR_paper.pdf 
 
 Fork repo: https://github.com/DeLaSalleUniversity-Manila/SelfExSR

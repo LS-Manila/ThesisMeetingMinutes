@@ -29,3 +29,11 @@ Fork repo: https://github.com/DeLaSalleUniversity-Manila/SelfExSR
 ## General Reading
 
 * Lecture from Prof. Raymond R. Tan, Ph.D., "Getting Published: Basic Principles to Get You Started". (https://github.com/DeLaSalleUniversity-Manila/ThesisMeetingMinutes/blob/master/GettingPublished-BasicPrinciplesToGetYouStarted-DrTan.pdf)
+
+
+
+## Agenda (11/11/2015)
+
+* IEEE Conference paper submission by 11/25/2015
+* Use both standard dataset and unique dataset
+* Use baseline algorithm (as a guarantee...)
